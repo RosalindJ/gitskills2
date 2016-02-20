@@ -9,4 +9,10 @@ Git tracks changes of files.
 
 Creating a new branch is quick.
 
+
 master fixed
+
+dev fex1
+
+Creating a new branch is quick AND simple.feature1
+
